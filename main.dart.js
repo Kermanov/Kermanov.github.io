@@ -46446,7 +46446,7 @@ Cu(a){var s=0,r=A.X(t.uz),q,p=this,o,n,m
 var $async$lJ=A.Y(function(b,c){if(b===1)return A.U(c,r)
 while(true)switch(s){case 0:n=a.SD()
 s=3
-return A.S(p.a.i0("GET",A.a5D("http","ed51-178-136-235-72.eu.ngrok.io","api/word",A.az(["date",n],t.N,t.z)),null),$async$lJ)
+return A.S(p.a.i0("GET",A.a5D("https","ed51-178-136-235-72.eu.ngrok.io","api/word",A.az(["date",n],t.N,t.z)),null),$async$lJ)
 case 3:m=c
 if(m.b===200){n=B.Y.r2(0,B.A.bV(0,m.w),null)
 o=J.ae(n)
@@ -46459,7 +46459,7 @@ return A.W($async$lJ,r)},
 lD(){var s=0,r=A.X(t.hl),q,p=this,o
 var $async$lD=A.Y(function(a,b){if(a===1)return A.U(b,r)
 while(true)switch(s){case 0:s=3
-return A.S(p.a.i0("GET",A.a5D("http","ed51-178-136-235-72.eu.ngrok.io","api/firstworddate",null),null),$async$lD)
+return A.S(p.a.i0("GET",A.a5D("https","ed51-178-136-235-72.eu.ngrok.io","api/firstworddate",null),null),$async$lD)
 case 3:o=b
 q=o.b===200?A.a39(J.aI(B.Y.r2(0,B.A.bV(0,o.w),null),"firstWordDate")):null
 s=1
