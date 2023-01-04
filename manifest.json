@@ -1,6 +1,6 @@
 {
-    "name": "cellular_automaton_viewer",
-    "short_name": "cellular_automaton_viewer",
+    "name": "word_of_the_day_frontend",
+    "short_name": "word_of_the_day_frontend",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
